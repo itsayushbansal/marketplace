@@ -13,8 +13,7 @@ def connect_mysql():
 
 
 urls = (
-    '/', 'index',
-    '/login', 'Login'
+    '/', 'index'
 )
 
 allowed = (
