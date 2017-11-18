@@ -1,7 +1,4 @@
-import web
-import re
-import base64
-import json
+import web,os,re,base64,json
 import MySQLdb as mysql
 from dbconfig import read_config
 
@@ -180,5 +177,7 @@ def is_authenticated(self):
 
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(debug=True, host='0.0.0.0', port=port)
     app.run()
 
