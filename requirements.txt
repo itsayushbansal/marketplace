@@ -1,2 +1,3 @@
 lpthw.web
 mysqlclient
+python==2.7
