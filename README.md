@@ -1,4 +1,4 @@
-# marketplace
+# Marketplace
 CRUD operations in Python without any framework.
 
 # Dependencies
