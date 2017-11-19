@@ -44,5 +44,5 @@ Install requirements: "pip install -r requirements.txt".
 
 In config.ini, change user and password to your mysql's username and password.
 
-# To Run:
+# To Run
 $ python views.py
