@@ -46,7 +46,7 @@ Using Command Line, navigate to the repository
 # Dependency Setup
 Install requirements: "pip install -r requirements.txt".
 
-In config.ini, change user and password to your mysql's username and password.
+In config.ini, change user and password to your mysql user's username and password.
 
 # To Run
 $ python views.py
