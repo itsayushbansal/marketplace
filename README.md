@@ -3,7 +3,7 @@ CRUD operations in Python without any framework.
 
 You can find the documentation of the api's below:
 
-https://documenter.getpostman.com/collection/view/1603718-6bac82ad-c0f8-0a13-2f92-51a52094b265
+https://documenter.getpostman.com/view/1603718/marketplace/7E8gbFN
 
 # Dependencies
 Python 2.x
